@@ -16,13 +16,13 @@
  *   background color (e.g. Color.yellow)
  */
 
-import java.awt.Color;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
+import javafx.scene.paint.Color;
 
 public class FileIO {
 

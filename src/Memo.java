@@ -10,7 +10,7 @@
  *              (each at most 20 characters), and foreground/background colors.
  */
 
-import java.awt.Color;
+import javafx.scene.paint.Color;
 
 public class Memo implements Cloneable {
 

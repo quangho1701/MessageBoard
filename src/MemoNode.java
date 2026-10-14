@@ -6,7 +6,7 @@
  * Date:        10/07/2026
  *
  * Description: A node of a singly linked list of memos. Each node holds a
- *              Memo ("info") and a reference to the next node ("link").
+ *              Memo and a reference to the next node.
  */
 
 public class MemoNode {
