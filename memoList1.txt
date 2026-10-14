@@ -1,0 +1,20 @@
+5
+10 10
+CS260 Prj#2 
+Announced
+It'll be a fun Prj.
+Color.black
+Color.magenta
+7
+10 250
+Fall break is
+getting closer!
+Color.black
+Color.green
+9
+180 20
+Project meeting
+Oct. 11 at 2:00pm 
+in ET 118
+Color.red
+Color.blue

@@ -1,0 +1,19 @@
+8
+50 90
+Insurance payment
+Nov. 8, $700
+Color.magenta
+Color.cyan
+6
+200 180
+Lunch with Bob
+Oct. 20 noon
+Walb Union
+Color.blue
+Color.white
+2
+250 300
+Parents meeting
+Next Weds at 7:00pm
+Color.pink
+Color.yellow
